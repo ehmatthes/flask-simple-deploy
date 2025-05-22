@@ -1,0 +1,4 @@
+include LICENSE
+recursive-include flask_simple_deploy *
+global-exclude *.pyc
+global-exclude *.DS_Store
